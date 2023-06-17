@@ -1,2 +1,2 @@
 # TIC-TAC-TOE-GAME
-The tic-tac-toe game built using object-oriented programming (OOP) concepts is a two-player game played on a 3x3 grid. . OOP principles are applied to create a structured and reusable codebase for easy maintenance and future enhancements.
+The tic-tac-toe game built using object-oriented programming (OOP) concepts is a two-player game played on a 3x3 grid. The game maintains a game board and tracks the current player. It provides methods to display the board, allow players to make moves, and check for wins or draws. The game loop continues until a win or draw is detected. OOP principles are applied to create a structured and reusable codebase for easy maintenance and future enhancements.
